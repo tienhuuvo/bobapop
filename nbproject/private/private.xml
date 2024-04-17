@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Controller/HomeServlet.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Controller/AdminServlet.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/admin.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/forgotpassword.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/order.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/unauthorizeOrder.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Controller/ForgotPasswordServlet.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/DAO/OrderDAO.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/home.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/editproduct.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/product.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Filter/AuthorizeFilter.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Controller/CancelOrderServlet.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/updateaccount.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/Controller/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/loginsignup.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/web/category.jsp</file>
+            <file>file:/C:/Users/haqua/Downloads/newAccount/newAccount/Account_2_3/Account_2/Account/src/java/DBConnect/DBContext.java</file>
+        </group>
+    </open-files>
+</project-private>
